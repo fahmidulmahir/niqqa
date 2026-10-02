@@ -1,4 +1,4 @@
 # niqqa
 my first git repository
 <br>
-author-Fahmidul
+author-Fahmidul Mahir
